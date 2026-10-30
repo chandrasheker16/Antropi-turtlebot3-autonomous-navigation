@@ -70,18 +70,13 @@ The demonstration includes:
 
 ## Project Evidence
 
-### Gazebo Simulation
+## Simulation in Gazebo
+![Gazebo Simulation](screenshots/gazebo_simulation.png)
 
-![TurtleBot3 Simulation](screenshots/gazebo_simulation.png)
+## Autonomous Navigation in RViz2
+![RViz2 Navigation](screenshots/rviz2_navigation.png)
 
-### RViz2 Navigation
-
-![Autonomous Navigation](screenshots/rviz_navigation.png)
-
-### LiDAR Visualization
-
-![LiDAR Visualization](screenshots/lidar_visualization.png)
 
 ### Video Demonstration
 
-[Watch the Autonomous Navigation Demo](YOUR_VIDEO_LINK)
+[Watch the Autonomous Navigation Demo](https://drive.google.com/file/d/1asOmudZx6wdWl1uYLhCeEeaQI_n6bwt7/view?usp=drivesdk)
