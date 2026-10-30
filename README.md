@@ -105,10 +105,10 @@ The demonstration includes:
 ## Project Evidence
 
 ## Simulation in Gazebo
-![Gazebo Simulation](screenshots/gazebo_simulation.png)
+[![Gazebo Simulation](screenshots/gazebo_simulation.png)](screenshots/gazebo_simulation.png)
 
 ## Autonomous Navigation in RViz2
-![RViz2 Navigation](screenshots/rviz2_navigation.png)
+[![RViz2 Navigation](screenshots/rviz2_navigation.png)](screenshots/rviz2_navigation.png)
 
 
 ### Video Demonstration
